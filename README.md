@@ -1,21 +1,15 @@
 ### Hi there 👋
 
 <!--
-**JasonJ2021/JasonJ2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+✨ Keep looking , don't settle
+Hi~ I'm Jason
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studing in Zhejiang University
+- 🌱 I’m currently learning Information Engineering
+- 👯 I’m looking to collaborate on System Design and Implementation
 -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonJ2021&show_icons=true&theme=solarized-light) -->
 
 <div align="center">
 <span>  </span>
