@@ -1,8 +1,6 @@
-### Hi there 👋
+### ✨ Keep looking , don't settle
 
-
-✨ Keep looking , don't settle
-Hi~ I'm Jason
+Hi~ I'm Jason \\ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studing in Zhejiang University
