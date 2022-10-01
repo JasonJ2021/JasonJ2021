@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonJ2021&show_icons=true&theme=radical) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonJ2021&show_icons=true&theme=solarized-light) -->
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=JasonJ2021&show_icons=true&theme=radical" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonJ2021&layout=compact&langs_count=8&show_icons=true&theme=radical" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=JasonJ2021&show_icons=true&theme=solarized-light" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonJ2021&layout=compact&langs_count=8&show_icons=true&theme=solarized-light" />
 <span>  </span>
 </div>
 
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JasonJ2021" />
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=JasonJ2021&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=JasonJ2021&theme=solarized-light" />
 </div>
