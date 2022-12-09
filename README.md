@@ -1,4 +1,4 @@
-# ✨ Keep looking , don't settle
+# ✨ Keep looking , Don't settle
 
 Hi~ I'm Jason   
 Here are some ideas to get you started:
