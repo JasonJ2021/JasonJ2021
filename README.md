@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studing in Zhejiang University
 - 🌱 I’m currently learning Information Engineering
-- 👯 I’m looking to collaborate on System Design and Implementation
+
 
 
 
